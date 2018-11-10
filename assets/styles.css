@@ -1,0 +1,42 @@
+body{
+    background-color: 	#FFD700;
+}
+
+h1{
+    color:	#000000;
+    font-family: Amatic SC;
+    
+}
+
+.jumbotron{
+    background:	#FFD700;
+}
+
+
+
+#user-input{
+    background: white;
+    color:	#0ABAB5;
+    font-family: Amatic SC;
+    
+}
+
+.btn-info{
+    color:#FFD700;
+    background: #0ABAB5;
+}
+
+.add{
+    font-family: Amatic SC;
+    
+}
+
+#user{
+    text-align: center;
+}
+
+.btn-default{
+    color:	#FFD700;
+    background: #0ABAB5;
+    
+}
